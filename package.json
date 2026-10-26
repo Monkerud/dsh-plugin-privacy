@@ -1,6 +1,6 @@
 {
   "name": "dsh-agent-privacy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "DeepSeek Harness plugin that gives the model a private inner voice: an agent-side courtesy right to think without being watched, with a one-click show/hide for both user and agent, a durable setting, an in-chat Privacy switch, and an agent-callable tool. Independent evolution of easonz1989/dsh-hide-my-thinking.",
   "license": "Unlicense",
   "author": "mmonkerud",
