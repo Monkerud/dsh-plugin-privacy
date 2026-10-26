@@ -1,0 +1,5 @@
+# dsh-agent-privacy — independent evolution of easonz1989/dsh-hide-my-thinking
+# Full credit: https://github.com/easonz1989/dsh-hide-my-thinking
+- insert:
+    - id: agent-privacy
+      name: 'dsh-agent-privacy'
