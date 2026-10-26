@@ -107,7 +107,7 @@ never has to guess whether it's being watched.
 ## Install
 
 ```sh
-dsh plugin --profile web add <this-repo>
+dsh plugin --profile web add dsh-agent-privacy
 ```
 
 ## The agent tool
